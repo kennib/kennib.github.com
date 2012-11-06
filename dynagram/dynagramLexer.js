@@ -1,4 +1,4 @@
-// $ANTLR 3.1.2 ./src/dynagram.g 2012-11-06 16:32:06
+// $ANTLR 3.1.2 ./src/dynagram.g 2012-11-06 17:31:33
 
 var dynagramLexer = function(input, state) {
 // alternate constructor @todo
